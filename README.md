@@ -1,15 +1,14 @@
-<!-- Project Title -->
-<h1 align="center">Shomadhan - Legal Solutions Platform</h1>
+
+<h1 align="center">Shomadhan </h1>
 
 <!-- Project Description -->
-<p align="center">Welcome to Shomadhan, a platform for legal solution seekers where solution providers can offer advice via comments. This Node.js project demonstrates user authentication and CRUD operations using EJS for the frontend, Node.js and Express for the backend, and MongoDB for the database.</p>
+<p align="center">A platform for legal solution seekers where solution providers can offer advice via comments. This Node.js project demonstrates user authentication and CRUD operations using EJS for the frontend, Node.js and Express for the backend, and MongoDB for the database.</p>
 
 
-## Overview
+
 
 Shomadhan is a web application developed for a Server Programming course. The platform allows users to seek legal solutions and providers to offer assistance through comments. Key features include authentication, CRUD operations, and user interaction functionalities.
-
-<!-- Key Features -->
+ 
 ## Key Features
 
 - **User Authentication**: Users can register and log in securely to access the platform.
@@ -18,7 +17,7 @@ Shomadhan is a web application developed for a Server Programming course. The pl
   
 - **Comment-based Solutions**: Solution providers can give advice and recommendations via comments.
 
-<!-- Technologies Used -->
+
 ## Technologies Used
 
 <p align="center">
